@@ -1,6 +1,6 @@
 name: PhotoOrgy
 favicon: null
-layout_spectrum: 0.6213488741777837
+layout_spectrum: 0.50996
 typography_spectrum: 0.9722140184603631
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4350076599512249
-  lightness: 0.9814694651868194
-  saturation: 0.3503038380295038
-  rhythmicContrast: 0.23284337390214205
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
